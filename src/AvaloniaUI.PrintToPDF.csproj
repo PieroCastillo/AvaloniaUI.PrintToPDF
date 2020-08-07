@@ -17,8 +17,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="0.9.*" />
-    <PackageReference Include="Avalonia.Skia" Version="0.9.*" />
+    <PackageReference Include="Avalonia" Version="0.9.12" />
+    <PackageReference Include="Avalonia.Skia" Version="0.9.12" />
     <PackageReference Include="SkiaSharp" Version="1.68.0" />
   </ItemGroup>
 
